@@ -31,11 +31,7 @@ Load and preprocess the MNIST dataset.
 Initialize the parameters (weights and biases).
 Implement and run the forward propagation, backward propagation, and gradient descent functions.
 Evaluate the network's performance and adjust hyperparameters as necessary.
-Contributing
-Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any improvements or suggestions.
 
-Acknowledgements
-Special thanks to the creators of the MNIST dataset and the developers of the libraries used in this project.
 
-Contact
-Feel free to reach out with any questions or comments. I'm eager to hear your thoughts and any suggestions for further improvements!
+
+
